@@ -1,0 +1,353 @@
+{
+    "providerName": "Dr. Jennifer Kazamias, DPM",
+    "providerUrl": "https://www.healthgrades.com/physician/dr-jennifer-kazamias-2skyn",
+    "locationCity": "Boca Raton",
+    "results": [
+        {
+            "commentId": "45af71cf-bccc-443f-9c79-50cb1e745eba",
+            "overallScore": 5,
+            "displayName": "do not display my name",
+            "communityMemberDetails": "do not display my name",
+            "location": null,
+            "submittedDate": "Feb 01, 2023",
+            "reviewTitle": "Excellent.  Very pleasant and did a great job.  ",
+            "commentText": "Reception Desk not  pleasant on both visits.\nI was told to come to the office to fill out a form to have my records sent to two of my doctors.  Found the form confusing.  Not a good way to start my day.",
+            "reviewHelpful": "UnAnswered",
+            "flagged": "NotFlagged",
+            "allowFlagging": true,
+            "helpfulCount": 0,
+            "notHelpfulCount": 0,
+            "providerDetail": {
+                "id": "2SKYN",
+                "displayName": "Dr. Kazamias'",
+                "image": "/img/prov/2/s/k/2skyn_w90h120_vrkvL5mn4j.jpg",
+                "primarySpecialty": "Podiatric Surgery"
+            },
+            "providerResponse": {
+                "providerSurveyCommentID": null,
+                "commentText": null,
+                "isFromProvider": true,
+                "flagCount": 0,
+                "commentStatusID": 0,
+                "insertedOn": null,
+                "flagged": "NotFlagged",
+                "allowFlagging": true
+            },
+            "answers": {
+                "officeSchedulingRating": 5,
+                "waitTime": 1,
+                "providerTimeAllocationRating": 5,
+                "providerAnswersRating": 5,
+                "providerExplanationRating": 5,
+                "providerTrustRating": 5
+            }
+        },
+        {
+            "commentId": "967ccbc6-3286-4b89-8df5-eeb6dce4f6f2",
+            "overallScore": 5,
+            "displayName": "Stu",
+            "communityMemberDetails": "Stu",
+            "location": null,
+            "submittedDate": "Aug 27, 2019",
+            "reviewTitle": null,
+            "commentText": "Dr Kazamias and staff are very caring and professional.  Prior to seeing Dr Kazamias I had seen another doctor and then searched for a second opinion.  Well I am glad I found her office as the whole experience had greatly exceeded my expectations.  Thank you very much for taking the time to see me and being able to remove the foreign object in my ankle!  I will be recommending you to my friends and colleagues.",
+            "reviewHelpful": "UnAnswered",
+            "flagged": "NotFlagged",
+            "allowFlagging": true,
+            "helpfulCount": 2,
+            "notHelpfulCount": 0,
+            "providerDetail": {
+                "id": "2SKYN",
+                "displayName": "Dr. Kazamias'",
+                "image": "/img/prov/2/s/k/2skyn_w90h120_vrkvL5mn4j.jpg",
+                "primarySpecialty": "Podiatric Surgery"
+            },
+            "providerResponse": {
+                "providerSurveyCommentID": null,
+                "commentText": null,
+                "isFromProvider": true,
+                "flagCount": 0,
+                "commentStatusID": 0,
+                "insertedOn": null,
+                "flagged": "NotFlagged",
+                "allowFlagging": true
+            },
+            "answers": {
+                "officeSchedulingRating": 5,
+                "officeEnvironmentRating": 5,
+                "providerStaffRating": 5,
+                "providerTimeAllocationRating": 5,
+                "providerAnswersRating": 5,
+                "providerExplanationRating": 5,
+                "providerTrustRating": 5
+            }
+        },
+        {
+            "commentId": "d4b5f073-1899-4296-b5e4-40cebe60671c",
+            "overallScore": 5,
+            "displayName": "CT",
+            "communityMemberDetails": "CT in Boca Raton, FL",
+            "location": "Boca Raton, FL",
+            "submittedDate": "Jan 21, 2019",
+            "reviewTitle": null,
+            "commentText": "Dr. K is an excellent clinician and surgeon and takes time to listen to her patients and respond to their concerns. Her surgical skills are top drawer.",
+            "reviewHelpful": "UnAnswered",
+            "flagged": "NotFlagged",
+            "allowFlagging": true,
+            "helpfulCount": 3,
+            "notHelpfulCount": 0,
+            "providerDetail": {
+                "id": "2SKYN",
+                "displayName": "Dr. Kazamias'",
+                "image": "/img/prov/2/s/k/2skyn_w90h120_vrkvL5mn4j.jpg",
+                "primarySpecialty": "Podiatric Surgery"
+            },
+            "providerResponse": {
+                "providerSurveyCommentID": null,
+                "commentText": null,
+                "isFromProvider": true,
+                "flagCount": 0,
+                "commentStatusID": 0,
+                "insertedOn": null,
+                "flagged": "NotFlagged",
+                "allowFlagging": true
+            },
+            "answers": {
+                "officeSchedulingRating": 5,
+                "officeEnvironmentRating": 5,
+                "providerStaffRating": 5,
+                "waitTime": 1,
+                "providerTimeAllocationRating": 5,
+                "providerAnswersRating": 5,
+                "providerExplanationRating": 5,
+                "providerTrustRating": 5
+            }
+        },
+        {
+            "commentId": "b8ed3630-bac7-429e-8c0b-cc1fea913e1a",
+            "overallScore": 5,
+            "displayName": "Bart",
+            "communityMemberDetails": "Bart in Lake Worth, FL",
+            "location": "Lake Worth, FL",
+            "submittedDate": "Dec 15, 2016",
+            "reviewTitle": null,
+            "commentText": "She is a true caring professional.  She spends time listening and she  never rushes through an exam. Very knowledgeable.  I truly trust my feet to her. She saved my big toe and my feet. Truly the best",
+            "reviewHelpful": "UnAnswered",
+            "flagged": "NotFlagged",
+            "allowFlagging": true,
+            "helpfulCount": 6,
+            "notHelpfulCount": 6,
+            "providerDetail": {
+                "id": "2SKYN",
+                "displayName": "Dr. Kazamias'",
+                "image": "/img/prov/2/s/k/2skyn_w90h120_vrkvL5mn4j.jpg",
+                "primarySpecialty": "Podiatric Surgery"
+            },
+            "providerResponse": {
+                "providerSurveyCommentID": null,
+                "commentText": null,
+                "isFromProvider": true,
+                "flagCount": 0,
+                "commentStatusID": 0,
+                "insertedOn": null,
+                "flagged": "NotFlagged",
+                "allowFlagging": true
+            },
+            "answers": {
+                "officeSchedulingRating": 5,
+                "officeEnvironmentRating": 5,
+                "providerStaffRating": 5,
+                "waitTime": 1,
+                "providerTimeAllocationRating": 5,
+                "providerAnswersRating": 5,
+                "providerExplanationRating": 5,
+                "providerTrustRating": 5
+            }
+        },
+        {
+            "commentId": "65b470da-65b1-4045-91f2-b05adbe0152f",
+            "overallScore": 5,
+            "displayName": "Christine Thibeault ",
+            "communityMemberDetails": "Christine Thibeault  in Palm Beach County, FL",
+            "location": "Palm Beach County, FL",
+            "submittedDate": "Jun 01, 2016",
+            "reviewTitle": null,
+            "commentText": "I had a very serious car accident, I broke my talus bone in half ( it had reversed itself)  and broke my tibia. \nDr Kazamia re set my bones perfectly in the palms west Hosp. The X-ray  now looks like there is not even any fractures.\nShe saved my ankle. I have a long road of healing ahead but without what she did, the outcome would not have the chance it does. \nNow I'm seeing Dr Daly, I'm so lucky, I had the two best specialists in their field both work on me. ",
+            "reviewHelpful": "UnAnswered",
+            "flagged": "NotFlagged",
+            "allowFlagging": true,
+            "helpfulCount": 10,
+            "notHelpfulCount": 6,
+            "providerDetail": {
+                "id": "2SKYN",
+                "displayName": "Dr. Kazamias'",
+                "image": "/img/prov/2/s/k/2skyn_w90h120_vrkvL5mn4j.jpg",
+                "primarySpecialty": "Podiatric Surgery"
+            },
+            "providerResponse": {
+                "providerSurveyCommentID": null,
+                "commentText": null,
+                "isFromProvider": true,
+                "flagCount": 0,
+                "commentStatusID": 0,
+                "insertedOn": null,
+                "flagged": "NotFlagged",
+                "allowFlagging": true
+            },
+            "answers": {
+                "officeSchedulingRating": 5,
+                "officeEnvironmentRating": 5,
+                "providerStaffRating": 5,
+                "providerTimeAllocationRating": 5,
+                "providerAnswersRating": 5,
+                "providerExplanationRating": 5,
+                "providerTrustRating": 5
+            }
+        }
+    ],
+    "model": {
+        "overall": {
+            "id": 0,
+            "title": null,
+            "responseCount": 212,
+            "reviewCount": 5,
+            "actualScore": 4.9103775,
+            "roundedScore": 4.9,
+            "text": null,
+            "reviewBar": null
+        },
+        "insights": null,
+        "cards": [
+            {
+                "title": "Dr. Kazamias' Performance",
+                "aggregates": [
+                    {
+                        "id": 1,
+                        "title": "Trustworthiness",
+                        "responseCount": 210,
+                        "negativeResponseCount": 2,
+                        "positiveResponseCount": 203,
+                        "reviewCount": 0,
+                        "actualScore": 4.9,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.9,
+                            "ratingText": "EXCELLENT"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "title": "Explains condition(s) well",
+                        "responseCount": 211,
+                        "negativeResponseCount": 1,
+                        "positiveResponseCount": 205,
+                        "reviewCount": 0,
+                        "actualScore": 4.8,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.8,
+                            "ratingText": "EXCELLENT"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "title": "Answers questions",
+                        "responseCount": 211,
+                        "negativeResponseCount": 2,
+                        "positiveResponseCount": 206,
+                        "reviewCount": 0,
+                        "actualScore": 4.8,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.8,
+                            "ratingText": "EXCELLENT"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "title": "Time well spent",
+                        "responseCount": 210,
+                        "negativeResponseCount": 1,
+                        "positiveResponseCount": 202,
+                        "reviewCount": 0,
+                        "actualScore": 4.8,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.8,
+                            "ratingText": "EXCELLENT"
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "Office & Staff Performance",
+                "aggregates": [
+                    {
+                        "id": 5,
+                        "title": "Scheduling",
+                        "responseCount": 197,
+                        "negativeResponseCount": 4,
+                        "positiveResponseCount": 185,
+                        "reviewCount": 0,
+                        "actualScore": 4.7,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.7,
+                            "ratingText": "EXCELLENT"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "title": "Office environment",
+                        "responseCount": 208,
+                        "negativeResponseCount": 1,
+                        "positiveResponseCount": 203,
+                        "reviewCount": 0,
+                        "actualScore": 4.8,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.8,
+                            "ratingText": "EXCELLENT"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "title": "Staff friendliness",
+                        "responseCount": 210,
+                        "negativeResponseCount": 4,
+                        "positiveResponseCount": 205,
+                        "reviewCount": 0,
+                        "actualScore": 4.8,
+                        "roundedScore": 5.0,
+                        "text": "",
+                        "reviewBar": {
+                            "averageScore": 4.8,
+                            "ratingText": "EXCELLENT"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "title": "Average wait time",
+                        "responseCount": 208,
+                        "negativeResponseCount": 193,
+                        "positiveResponseCount": 4,
+                        "reviewCount": 0,
+                        "actualScore": 1.4,
+                        "roundedScore": 1.0,
+                        "text": "Over 45 minutes",
+                        "reviewBar": {
+                            "averageScore": 1.4,
+                            "ratingText": "POOR"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

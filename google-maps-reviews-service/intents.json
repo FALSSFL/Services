@@ -1,0 +1,17 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "good day", "greetings", "what's up?", "how is it going?"],
+    "responses": ["Hello!", "Hey!", "What can I do for you?"]
+    },
+    {"tag": "appointment",
+    "patterns": ["cancel", "appointment", "reschedule", "another"],
+    "responses": ["Hi! Thank you for contacting the office and letting us know about your appointment. We'll get back to you as soon as we can If you would like an immediate response please contact our office at 124-456-78910"]
+    },
+    {"tag": "positive",
+    "patterns": ["no rating", "excellent", "best", " Messina ", "attentive ", "understanding", "professional  ", "caring", "incredible", "recommend", "attentive", "knowledgeable", "dedicated"],
+    "responses": ["Thank you for taking the time to let us know that your latest visit was a positive experience. We're happy to hear that you had a positive experience with Dr. Messina and that your concern was resolved quickly.", "Providing excellent care for our patients is our top priority and we're happy to hear that we've been able to assist you",  "We look forward to continuing to provide you with the best podiatric care possible!", "Thank you for your visit!", 
+    "We're pleased to hear that Dr. Messina and the team met your expectations. Your positive experience is valuable feedback for us.", "Thanks for sharing your positive impression of Dr. Messina and the team. It's always encouraging to know our services are meeting the needs of our patients.", "Your feedback about Dr. Messina and the team is appreciated. Knowing that they are delivering a positive experience is important for us to continue providing quality care.", "We're glad to hear that Dr. Messina and the team at Foot Ankle and Leg Specialists of South Florida made a positive impact on you. Your satisfaction is a testament to the commitment to excellence we strive for.", "It's reassuring to learn that Dr. Messina and the team lived up to your expectations. We appreciate your acknowledgment of their excellent service.", 
+    "Thank you for letting us know about your positive experience with Dr. Messina and the team. Your feedback helps us ensure we maintain a high standard of care.", "We're pleased to hear that Dr. Messina and the team left a positive impression on you. Your satisfaction is a reflection of the hard work and dedication of our team.",
+    "Appreciate your positive comments about Dr. Messina and the team. We're committed to providing quality care, and your feedback is motivating.", "We're glad to know that Dr. Messina and the team contributed to a positive experience for you. Your input is valuable in our ongoing efforts to deliver excellent healthcare.", "Thanks for sharing your positive thoughts on Dr. Messina and the team. It's rewarding to hear that our services are making a positive impact on patients."]
+    }
+]}
